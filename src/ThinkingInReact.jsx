@@ -80,7 +80,7 @@ function FilterableProductTable(){
 }
 
 function App() {
-    return <FilterableProductTable products={PRODUCTS} />;
+    return <FilterableProductTable/>;
 }
 
 const PRODUCTS = [
